@@ -296,7 +296,7 @@
     </a>
   </div>
   <div class="flex flex-col w-full">
-    <div
+    <div style="border-bottom: 4px solid #fff;"
       class={`${
         isEdit ? 'bg-item flex-col py-2' : 'bg-background flex-row items-center justify-center mb-2 p-4'
       } rounded-xl flex relative`}
