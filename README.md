@@ -4,7 +4,7 @@
 
 Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 
-Created with [Sapper](https://sapper.svelte.dev/) + [Tailwind CSS](https://tailwindcss.com/)
+Created with [Sapper](https://sapper.svelte.dev/) & [Tailwind CSS](https://tailwindcss.com/)
 
 # Development
 
